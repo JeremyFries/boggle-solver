@@ -1,1 +1,3 @@
-# boggle-solver
+This automation allows the user to automatically solve online Boggle games hosted by https://wordshake.com/boggle.
+This requires download of Class_MySQLAPI.ahk which can be found here: https://www.autohotkey.com/boards/viewtopic.php?style=7&t=429.
+Also, the Scraper Chrome extension (https://chromewebstore.google.com/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd) is required as this is what is used to read the Boggle board. Since the location of the Scraper tool in your toolbar upon right-clicking may vary depending on other Chrome extensions downloaded, it may be necessary to modify the code to change the mouse movement after this right click.
